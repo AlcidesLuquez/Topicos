@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1693492104 source:d:\git\programacion\exams\autocorregibleofuscado\examen.c
+	<stdlib.h>
+
+1693491822 source:d:\git\programacion\exams\autocorregibleofuscado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1693492254 d:\git\programacion\exams\autocorregibleofuscado\examen.h
+
+1757078205 source:d:\git\programacion\exams\autocorregibleofuscadosinarchivos\examen.c
+	<stdlib.h>
+
+1757078176 source:d:\git\programacion\exams\autocorregibleofuscadosinarchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1757078182 d:\git\programacion\exams\autocorregibleofuscadosinarchivos\examen.h
+
+1757078205 source:d:\git\programacion\exams\ofuscadosinarchivos\examen.c
+	<stdlib.h>
+
+1776448398 source:d:\git\programacion\exams\ofuscadosinarchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1757078182 d:\git\programacion\exams\ofuscadosinarchivos\examen.h
+
+1776449270 source:d:\git\programacion\exams\ofuscadosinarchivosdadasvuelta\examen.c
+	<stdlib.h>
+
+1776789822 source:d:\git\programacion\exams\ofuscadosinarchivosdadasvuelta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1776452470 d:\git\programacion\exams\ofuscadosinarchivosdadasvuelta\examen.h
+
+1776885311 source:c:\users\laboratorios\desktop\top_2204\ofuscadosinarchivosdadasvuelta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1776886302 c:\users\laboratorios\desktop\top_2204\ofuscadosinarchivosdadasvuelta\examen.h
+
+1776887063 source:c:\users\laboratorios\desktop\top_2204\ofuscadosinarchivosdadasvuelta\examen.c
+	<stdlib.h>
+	<ctype.h>
+	"examen.h"
+	<stdio.h>
+	<string.h>
+
+1776955512 source:d:\codeblocks\proyectos\ofuscadosinarchivosdadasvuelta-(2)_2\ofuscadosinarchivosdadasvuelta\examen.c
+	<stdlib.h>
+	<ctype.h>
+	"examen.h"
+	<stdio.h>
+	<string.h>
+
+1776954793 d:\codeblocks\proyectos\ofuscadosinarchivosdadasvuelta-(2)_2\ofuscadosinarchivosdadasvuelta\examen.h
+
+1776956435 source:d:\codeblocks\proyectos\ofuscadosinarchivosdadasvuelta-(2)_2\ofuscadosinarchivosdadasvuelta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1776956435 source:d:\codeblocks\proyectos\github\ofuscadosinarchivosdadasvuelta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1776954793 d:\codeblocks\proyectos\github\ofuscadosinarchivosdadasvuelta\examen.h
+
